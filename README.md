@@ -10,6 +10,7 @@ Topics:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -55,6 +56,7 @@ Topics:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -64,4 +66,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
