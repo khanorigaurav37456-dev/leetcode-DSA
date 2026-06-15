@@ -17,6 +17,7 @@ Topics:
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -26,6 +27,7 @@ Topics:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
