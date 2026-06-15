@@ -73,6 +73,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
