@@ -43,6 +43,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -71,6 +72,7 @@ Topics:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
@@ -105,4 +107,12 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
