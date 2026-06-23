@@ -16,6 +16,7 @@ Topics:
 | [0046-permutations](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
@@ -49,6 +50,7 @@ Topics:
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -102,6 +104,7 @@ Topics:
 | [0051-n-queens](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Dynamic Programming
@@ -129,4 +132,9 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0037-sudoku-solver/) | Hard |
+| [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
