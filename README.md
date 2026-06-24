@@ -25,6 +25,7 @@ Topics:
 | [0283-move-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -107,10 +108,12 @@ Topics:
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
