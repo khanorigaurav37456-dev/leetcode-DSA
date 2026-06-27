@@ -58,6 +58,7 @@ Topics:
 | [0151-reverse-words-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0784-letter-case-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0784-letter-case-permutation/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Topics:
 | [0090-subsets-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0784-letter-case-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0784-letter-case-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Topics:
 | [0216-combination-sum-iii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
+| [0784-letter-case-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0784-letter-case-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
