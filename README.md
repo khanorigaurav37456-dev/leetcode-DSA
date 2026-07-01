@@ -39,6 +39,7 @@ Topics:
 | [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -49,6 +50,7 @@ Topics:
 | [0037-sudoku-solver](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -145,6 +147,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
