@@ -36,6 +36,7 @@ Topics:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -45,6 +46,7 @@ Topics:
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0037-sudoku-solver/) | Hard |
+| [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -159,6 +161,7 @@ Topics:
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
