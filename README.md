@@ -172,11 +172,13 @@ Topics:
 | [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0148-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
