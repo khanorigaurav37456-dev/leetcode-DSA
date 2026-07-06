@@ -181,6 +181,7 @@ Topics:
 | [0148-sort-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
