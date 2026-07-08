@@ -21,6 +21,7 @@ class Solution {
         }
         if(length -n == 0){
             head = head.next;
+            return head;
         }
         if(node.next != null){
         node.next = node.next.next;
