@@ -158,6 +158,7 @@ Topics:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
+| [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +221,12 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0707-design-linked-list/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
