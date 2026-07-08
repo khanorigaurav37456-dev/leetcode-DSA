@@ -10,62 +10,25 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        int[] arr = toArray(head);
-        arr = swapTwo(arr,k);
-        return arrayToLinkedList(arr);
+        if(head == null){
+            return head;
+        }
+        ListNode permanent = head;
+        for(int i =0; i<k-1; i++){
+            permanent = permanent.next;
+        }
+        ListNode first = permanent;
+        ListNode second = head;
 
-        
-
-    }
-    public ListNode arrayToLinkedList(int[] arr) {
-
-    if (arr.length == 0) {
-        return null;
-    }
-
-    ListNode head = new ListNode(arr[0]);
-    ListNode temp = head;
-
-    for (int i = 1; i < arr.length; i++) {
-        ListNode node = new ListNode(arr[i]);
-        temp.next = node;
-        temp = node;
-    }
-
-    return head;
-}
-        public int[] toArray(ListNode head){
-            int size = getSize(head);
-            int[] arr = new int[size];
-            int i= 0;
-            while(head != null){
-                arr[i++] = head.val;
-                head = head.next;
-            }
-            return arr;
+        while(first.next != null){
+            first = first.next;
+            second = second.next;
         }
 
-        public int[] swapTwo(int[] arr, int k){
-            int first = k-1;
-            int second = arr.length -k;
+        int temp = permanent.val;
+        permanent.val = second.val;
+        second.val = temp;
 
-           
-
-            int temp = arr[first];
-            arr[first] = arr[second];
-            arr[second] = temp;
-
-            return arr;
-        }
-          public int getSize(ListNode head){
-            int size = 0;
-            ListNode temp = head;
-
-            while(temp != null){
-                size++;
-                temp = temp.next;
-            }
-            return size;
-        }
-    
+        return head;
+    }
 }
