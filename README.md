@@ -143,6 +143,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
@@ -160,6 +161,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
@@ -239,4 +241,8 @@ Topics:
 | ------- | ------- |
 | [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
