@@ -165,6 +165,7 @@ Topics:
 | [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
+| [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ Topics:
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [0707-design-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -247,4 +249,12 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
