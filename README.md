@@ -70,6 +70,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
@@ -229,6 +230,7 @@ Topics:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
