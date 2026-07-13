@@ -186,6 +186,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ Topics:
 | [0237-delete-node-in-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -268,4 +270,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
