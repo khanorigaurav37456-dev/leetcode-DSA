@@ -19,6 +19,7 @@ Topics:
 | [0078-subsets](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -237,6 +238,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -274,4 +276,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
