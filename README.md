@@ -29,6 +29,7 @@ Topics:
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
+| [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -67,6 +68,7 @@ Topics:
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +244,7 @@ Topics:
 | [0143-reorder-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -280,4 +283,5 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
