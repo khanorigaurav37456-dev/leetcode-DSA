@@ -177,6 +177,7 @@ Topics:
 | [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 | [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +288,8 @@ Topics:
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
