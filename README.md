@@ -31,6 +31,7 @@ Topics:
 | [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Two Pointers
@@ -180,6 +181,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ Topics:
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
