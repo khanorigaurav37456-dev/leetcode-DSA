@@ -84,6 +84,7 @@ Topics:
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0784-letter-case-permutation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -250,6 +251,7 @@ Topics:
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
