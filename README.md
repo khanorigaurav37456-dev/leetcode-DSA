@@ -81,6 +81,7 @@ Topics:
 | [0131-palindrome-partitioning](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0784-letter-case-permutation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -234,6 +235,7 @@ Topics:
 | [0203-remove-linked-list-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0394-decode-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@ Topics:
 | [0143-reorder-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
