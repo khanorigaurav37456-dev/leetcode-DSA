@@ -77,6 +77,7 @@ Topics:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -157,6 +158,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -250,6 +252,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
