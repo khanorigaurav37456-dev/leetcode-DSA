@@ -257,6 +257,7 @@ Topics:
 | [0032-longest-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0394-decode-string/) | Medium |
@@ -271,6 +272,7 @@ Topics:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0707-design-linked-list/) | Medium |
 ## Brainteaser
