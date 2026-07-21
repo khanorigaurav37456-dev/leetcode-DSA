@@ -23,8 +23,8 @@ class Solution {
         }
         if(sb.length()==0){
             return "0";
-        } else{
-         return sb.toString();
         } 
+         return sb.toString();
+        
     }
 }
