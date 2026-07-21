@@ -275,6 +275,7 @@ Topics:
 | [0503-next-greater-element-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -288,6 +289,7 @@ Topics:
 | [0155-min-stack](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0707-design-linked-list/) | Medium |
+| [0901-online-stock-span](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +326,7 @@ Topics:
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -334,4 +337,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0456-132-pattern/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
