@@ -151,6 +151,7 @@ Topics:
 | [0148-sort-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ Topics:
 | [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
