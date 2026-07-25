@@ -205,6 +205,7 @@ Topics:
 | [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 | [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
@@ -216,6 +217,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
@@ -353,6 +355,7 @@ Topics:
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Ordered Set
