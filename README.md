@@ -202,6 +202,7 @@ Topics:
 | ------- | ------- |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0292-nim-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 | [0382-linked-list-random-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0382-linked-list-random-node/) | Medium |
