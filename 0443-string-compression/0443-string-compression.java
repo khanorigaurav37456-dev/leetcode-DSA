@@ -11,7 +11,7 @@ class Solution {
                 chars[k] = chars[i];
                 k++;
                 int count = j-i+1;
-                if(count !=1){
+                if(count >1){
                 String str = Integer.toString(count);
                 for(int x = 0; x<str.length(); x++){
                     chars[k] = str.charAt(x);
