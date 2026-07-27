@@ -47,6 +47,7 @@ Topics:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -90,6 +91,7 @@ Topics:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
@@ -396,4 +398,8 @@ Topics:
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
