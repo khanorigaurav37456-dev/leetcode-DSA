@@ -10,7 +10,6 @@ class Solution {
                 i++;
                 j++;
                 } else{
-                    i++;
                     break;
                 }
             }
