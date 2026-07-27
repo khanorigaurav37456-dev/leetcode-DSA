@@ -239,6 +239,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Linked List
@@ -251,6 +252,7 @@ Topics:
 | [0061-rotate-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -383,6 +385,7 @@ Topics:
 | [0102-binary-tree-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
@@ -395,6 +398,7 @@ Topics:
 | [0102-binary-tree-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
@@ -403,6 +407,7 @@ Topics:
 | [0102-binary-tree-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
