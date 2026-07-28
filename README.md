@@ -241,6 +241,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
+| [0101-symmetric-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -386,6 +387,7 @@ Topics:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -401,6 +403,7 @@ Topics:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -412,6 +415,7 @@ Topics:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
