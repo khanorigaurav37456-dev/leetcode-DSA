@@ -245,6 +245,7 @@ Topics:
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +393,7 @@ Topics:
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +408,7 @@ Topics:
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +418,7 @@ Topics:
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
