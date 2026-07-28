@@ -113,6 +113,7 @@ Topics:
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ Topics:
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -417,4 +419,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
