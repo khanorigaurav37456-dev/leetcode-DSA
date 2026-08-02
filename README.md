@@ -245,6 +245,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0101-symmetric-tree/) | Easy |
@@ -320,6 +321,7 @@ Topics:
 | [0020-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0155-min-stack/) | Medium |
@@ -406,6 +408,7 @@ Topics:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0101-symmetric-tree/) | Easy |
@@ -438,6 +441,7 @@ Topics:
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0101-symmetric-tree/) | Easy |
