@@ -271,6 +271,7 @@ Topics:
 | [0501-find-mode-in-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -448,6 +449,7 @@ Topics:
 | [0543-diameter-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -457,6 +459,7 @@ Topics:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +492,7 @@ Topics:
 | [0543-diameter-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -506,6 +510,7 @@ Topics:
 | [0226-invert-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
