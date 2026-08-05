@@ -276,6 +276,7 @@ Topics:
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Linked List
@@ -455,6 +456,7 @@ Topics:
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -501,6 +503,7 @@ Topics:
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -531,4 +534,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 <!---LeetCode Topics End-->
