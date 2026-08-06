@@ -233,6 +233,7 @@ Topics:
 | [1071-greatest-common-divisor-of-strings](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
@@ -547,4 +548,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
