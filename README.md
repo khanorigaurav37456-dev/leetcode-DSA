@@ -88,6 +88,7 @@ Topics:
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [3731-find-missing-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -278,6 +279,7 @@ Topics:
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Linked List
@@ -461,6 +463,7 @@ Topics:
 | [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -509,6 +512,7 @@ Topics:
 | [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -529,6 +533,7 @@ Topics:
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
