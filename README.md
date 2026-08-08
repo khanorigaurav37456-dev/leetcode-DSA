@@ -286,6 +286,7 @@ Topics:
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Linked List
@@ -472,6 +473,7 @@ Topics:
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -525,6 +527,7 @@ Topics:
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -549,6 +552,7 @@ Topics:
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -566,4 +570,12 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
