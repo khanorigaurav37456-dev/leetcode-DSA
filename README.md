@@ -291,6 +291,7 @@ Topics:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -483,6 +484,7 @@ Topics:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -542,6 +544,7 @@ Topics:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -567,6 +570,7 @@ Topics:
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
