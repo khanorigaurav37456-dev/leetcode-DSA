@@ -208,6 +208,7 @@ Topics:
 | [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@ Topics:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Linked List
@@ -484,6 +486,7 @@ Topics:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -544,6 +547,7 @@ Topics:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -584,6 +588,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
