@@ -45,6 +45,7 @@ Topics:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3731-find-missing-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -212,6 +213,7 @@ Topics:
 | [1025-divisor-game](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1025-divisor-game/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ Topics:
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,6 +503,7 @@ Topics:
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -606,6 +610,7 @@ Topics:
 | [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
