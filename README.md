@@ -43,6 +43,7 @@ Topics:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
@@ -254,6 +255,7 @@ Topics:
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
