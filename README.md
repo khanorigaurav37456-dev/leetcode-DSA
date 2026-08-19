@@ -41,6 +41,7 @@ Topics:
 | [0907-sum-of-subarray-minimums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
