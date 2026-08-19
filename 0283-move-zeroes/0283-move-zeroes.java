@@ -8,10 +8,8 @@ class Solution {
                 i++;
             }
         }
-
         for(int x = i; x < nums.length; x++){
             nums[x] = 0;
-            i++;
         }
     }
 }
