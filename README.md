@@ -27,6 +27,7 @@ Topics:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -148,6 +149,7 @@ Topics:
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -182,6 +184,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -366,6 +369,7 @@ Topics:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,4 +653,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
