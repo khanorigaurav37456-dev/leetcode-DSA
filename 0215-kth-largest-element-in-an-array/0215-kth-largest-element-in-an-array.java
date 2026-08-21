@@ -4,12 +4,11 @@ class Solution {
 
         for(int i =0; i<nums.length; i++){
             minHeap.add(nums[i]);
+            if(minHeap.size()>k){
+                minHeap.poll();
+            }
         }
-
-        while(minHeap.size()>k){
-            minHeap.poll();
-        }
-
+        
         return minHeap.peek();
     }
 }
