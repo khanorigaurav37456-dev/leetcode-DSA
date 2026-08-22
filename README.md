@@ -40,6 +40,7 @@ Topics:
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -81,6 +82,7 @@ Topics:
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0443-string-compression/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -146,6 +148,7 @@ Topics:
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -158,6 +161,7 @@ Topics:
 | [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -188,6 +192,7 @@ Topics:
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0456-132-pattern](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0456-132-pattern/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -196,6 +201,7 @@ Topics:
 | [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
