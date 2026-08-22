@@ -40,6 +40,7 @@ Topics:
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -103,6 +104,7 @@ Topics:
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [3731-find-missing-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -128,6 +130,7 @@ Topics:
 | [0402-remove-k-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0443-string-compression/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0784-letter-case-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0784-letter-case-permutation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -155,6 +158,7 @@ Topics:
 | [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -192,6 +196,7 @@ Topics:
 | [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -636,6 +641,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -683,4 +689,9 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
