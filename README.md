@@ -112,6 +112,7 @@ Topics:
 | [0242-valid-anagram](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -140,6 +141,7 @@ Topics:
 | [0316-remove-duplicate-letters](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0402-remove-k-digits/) | Medium |
@@ -171,6 +173,7 @@ Topics:
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -682,6 +685,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
