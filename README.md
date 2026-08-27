@@ -40,6 +40,7 @@ Topics:
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0456-132-pattern/) | Medium |
+| [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -118,6 +119,7 @@ Topics:
 | [0387-first-unique-character-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
@@ -171,6 +173,7 @@ Topics:
 | [0219-contains-duplicate-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Queue
@@ -189,6 +192,7 @@ Topics:
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -749,4 +753,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
 <!---LeetCode Topics End-->
