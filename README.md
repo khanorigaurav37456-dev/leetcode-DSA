@@ -46,6 +46,7 @@ Topics:
 | [0494-target-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -124,6 +125,7 @@ Topics:
 | [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0767-reorganize-string/) | Medium |
@@ -210,6 +212,7 @@ Topics:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Bit Manipulation
