@@ -27,6 +27,7 @@ Topics:
 | [0090-subsets-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -107,6 +108,7 @@ Topics:
 | [0037-sudoku-solver](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -720,6 +722,7 @@ Topics:
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
