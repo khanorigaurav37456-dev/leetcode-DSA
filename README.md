@@ -12,6 +12,7 @@ Topics:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0037-sudoku-solver/) | Hard |
@@ -74,6 +75,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0027-remove-element/) | Easy |
@@ -243,6 +245,7 @@ Topics:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
