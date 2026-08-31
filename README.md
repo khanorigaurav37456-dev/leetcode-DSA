@@ -70,6 +70,7 @@ Topics:
 | [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
@@ -144,6 +145,7 @@ Topics:
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3731-find-missing-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
