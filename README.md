@@ -54,6 +54,7 @@ Topics:
 | [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -193,6 +194,7 @@ Topics:
 | [0239-sliding-window-maximum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Queue
