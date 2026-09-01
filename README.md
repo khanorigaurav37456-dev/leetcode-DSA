@@ -72,6 +72,7 @@ Topics:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
@@ -112,6 +113,7 @@ Topics:
 | [1768-merge-strings-alternately](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ Topics:
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +237,7 @@ Topics:
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -278,6 +282,7 @@ Topics:
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -332,6 +337,7 @@ Topics:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
