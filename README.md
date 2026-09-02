@@ -80,6 +80,7 @@ Topics:
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3731-find-missing-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +370,7 @@ Topics:
 | [3536-maximum-product-of-two-digits](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
