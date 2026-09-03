@@ -126,6 +126,7 @@ Topics:
 | [0037-sudoku-solver](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -168,6 +169,7 @@ Topics:
 | [0058-length-of-last-word](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
+| [0127-word-ladder](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
@@ -731,6 +733,7 @@ Topics:
 | [0111-minimum-depth-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0127-word-ladder](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -821,4 +824,8 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
