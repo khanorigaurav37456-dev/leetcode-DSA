@@ -14,8 +14,8 @@ class Solution {
         i++;
        }
        if(heap.isEmpty()){
-    break;
-}
+          break;
+       }
        w = w + heap.poll(); 
        k--;
        }
