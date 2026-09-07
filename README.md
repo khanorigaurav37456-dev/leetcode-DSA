@@ -52,6 +52,7 @@ Topics:
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0525-contiguous-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
@@ -149,6 +150,7 @@ Topics:
 | [0480-sliding-window-median](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0480-sliding-window-median/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -249,6 +251,7 @@ Topics:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
