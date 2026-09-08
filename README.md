@@ -161,6 +161,7 @@ Topics:
 | [1207-unique-number-of-occurrences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3731-find-missing-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -243,6 +244,7 @@ Topics:
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -551,6 +553,7 @@ Topics:
 | [0703-kth-largest-element-in-a-stream](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0707-design-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0901-online-stock-span/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,6 +604,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0456-132-pattern/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
