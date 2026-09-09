@@ -78,6 +78,7 @@ Topics:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2538-difference-between-maximum-and-minimum-price-sum/) | Hard |
@@ -122,6 +123,7 @@ Topics:
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +249,7 @@ Topics:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -402,6 +405,7 @@ Topics:
 | [0735-asteroid-collision](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
