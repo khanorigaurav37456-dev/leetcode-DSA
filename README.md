@@ -460,6 +460,7 @@ Topics:
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
@@ -776,6 +777,7 @@ Topics:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## String Matching
@@ -809,10 +811,12 @@ Topics:
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
