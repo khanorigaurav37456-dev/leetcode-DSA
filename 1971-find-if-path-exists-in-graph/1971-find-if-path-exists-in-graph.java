@@ -28,8 +28,9 @@ class Solution {
             for(int num : graph[temp]){
                 if(!visited[num]){
                 queue.offer(num);
-                }
                 visited[num] = true;
+                }
+                
             }
         }
         return false;
