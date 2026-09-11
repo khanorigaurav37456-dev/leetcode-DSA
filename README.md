@@ -67,6 +67,7 @@ Topics:
 | [0871-minimum-number-of-refueling-stops](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -417,6 +418,7 @@ Topics:
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -778,6 +780,7 @@ Topics:
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
