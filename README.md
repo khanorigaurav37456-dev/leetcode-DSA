@@ -34,6 +34,7 @@ Topics:
 | [0136-single-number](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -414,6 +415,7 @@ Topics:
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -434,6 +436,7 @@ Topics:
 | [0144-binary-tree-preorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -764,6 +767,7 @@ Topics:
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0127-word-ladder](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -810,6 +814,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
