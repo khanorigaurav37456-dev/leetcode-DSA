@@ -467,6 +467,7 @@ Topics:
 | [0695-max-area-of-island](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -797,6 +798,7 @@ Topics:
 | [0695-max-area-of-island](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -844,6 +846,7 @@ Topics:
 | [0200-number-of-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
@@ -853,6 +856,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -901,4 +905,12 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0127-word-ladder/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
