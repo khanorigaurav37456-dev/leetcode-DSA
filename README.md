@@ -79,6 +79,7 @@ Topics:
 | [1470-shuffle-the-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -427,6 +428,7 @@ Topics:
 | [0994-rotting-oranges](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +481,7 @@ Topics:
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
@@ -804,6 +807,7 @@ Topics:
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -843,6 +847,7 @@ Topics:
 | [1020-number-of-enclaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
