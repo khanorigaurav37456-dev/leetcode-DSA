@@ -16,16 +16,18 @@ class Solution {
             for(int j =0; j<m; j++){
                 if(board[i][j] == 'O'){
                     board[i][j] = 'X';
-                }
-            }
-        }
-        for(int i =0; i<n; i++){
-            for(int j =0; j<m; j++){
-                if(board[i][j] == '#'){
+                } else if(board[i][j] == '#'){
                     board[i][j] = 'O';
                 }
             }
         }
+        // for(int i =0; i<n; i++){
+        //     for(int j =0; j<m; j++){
+        //         if(board[i][j] == '#'){
+        //             board[i][j] = 'O';
+        //         }
+        //     }
+        // }
         
     }
     boolean valid(int n, int m,int i,int j){
