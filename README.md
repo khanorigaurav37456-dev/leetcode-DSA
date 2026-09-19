@@ -82,6 +82,7 @@ Topics:
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -431,6 +432,7 @@ Topics:
 | [1020-number-of-enclaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -816,6 +818,7 @@ Topics:
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
