@@ -256,6 +256,7 @@ Topics:
 | [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0767-reorganize-string/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -476,6 +477,7 @@ Topics:
 | [0687-longest-univalue-path](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0695-max-area-of-island](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -809,6 +811,7 @@ Topics:
 | [0662-maximum-width-of-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0752-open-the-lock](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0752-open-the-lock/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -874,6 +877,7 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0886-possible-bipartition/) | Medium |
@@ -935,4 +939,12 @@ Topics:
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0886-possible-bipartition/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
