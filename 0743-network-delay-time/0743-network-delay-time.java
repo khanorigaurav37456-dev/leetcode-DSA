@@ -21,18 +21,18 @@ class Solution {
         heap.offer(new int[]{distance[src-1],src-1});
         while(!heap.isEmpty()){
             int[] pair = heap.poll();
-            int d = pair[0];
-            int node = pair[1];
-            if(d > distance[node]){
+            int currentDistance = pair[0];
+            int currentNode = pair[1];
+            if(currentDistance > distance[currentNode]){
                 continue;
             }
-            for(int j =0; j<graph[node].size(); j++){
-                int[] edge = graph[node].get(j);
+            for(int j =0; j<graph[currentNode].size(); j++){
+                int[] edge = graph[currentNode].get(j);
                 int neigh = edge[0];
                 int weight = edge[1];
-                if(d + weight < distance[neigh]){
-                    distance[neigh] = d + weight;
-                    heap.offer(new int[]{d+weight,neigh});
+                if(currentDistance + weight < distance[neigh]){
+                    distance[neigh] = currentDistance + weight;
+                    heap.offer(new int[]{currentDistance+weight,neigh});
                 }
             }
         }
