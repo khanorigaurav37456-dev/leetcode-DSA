@@ -81,6 +81,7 @@ Topics:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -263,6 +264,7 @@ Topics:
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -298,6 +300,7 @@ Topics:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0456-132-pattern/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -437,6 +440,7 @@ Topics:
 | [1020-number-of-enclaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Depth-First Search
@@ -495,6 +499,7 @@ Topics:
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -827,6 +832,7 @@ Topics:
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -871,6 +877,7 @@ Topics:
 | [1020-number-of-enclaves](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -947,4 +954,5 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
