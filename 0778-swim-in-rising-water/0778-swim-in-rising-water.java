@@ -13,15 +13,12 @@ class Solution {
         heap.offer(new int[]{grid[0][0], 0 ,0});
         while(!heap.isEmpty()){
             int[] current = heap.poll();
-
             int currentTime = current[0];
             int row = current[1];
             int col = current[2];
-
             for(int i= 0; i<4; i++){
                 int r = row + x[i];
                 int c = col + y[i];
-
                 if(!valid(n,m,r,c)){
                     continue;
                 }
