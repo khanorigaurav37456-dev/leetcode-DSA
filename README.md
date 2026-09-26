@@ -82,6 +82,7 @@ Topics:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1905-count-sub-islands](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1905-count-sub-islands/) | Medium |
@@ -266,6 +267,7 @@ Topics:
 | [0973-k-closest-points-to-origin](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
@@ -896,6 +898,7 @@ Topics:
 | [0841-keys-and-rooms](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0886-possible-bipartition/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2467-most-profitable-path-in-a-tree](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/2467-most-profitable-path-in-a-tree/) | Medium |
 ## Binary Lifting
@@ -957,11 +960,13 @@ Topics:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/khanorigaurav37456-dev/leetcode-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
