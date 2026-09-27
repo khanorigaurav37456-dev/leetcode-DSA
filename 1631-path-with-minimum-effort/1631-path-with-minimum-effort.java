@@ -4,22 +4,18 @@ class Solution {
     public int minimumEffortPath(int[][] heights) {
         int n = heights.length;
         int m = heights[0].length;
-
         int[][] res = new int[n][m];
-
         for(int i= 0; i<n; i++){
             Arrays.fill(res[i], Integer.MAX_VALUE);
         }
         PriorityQueue<int[]> heap = new PriorityQueue<>((a,b) -> Integer.compare(a[0],b[0]));
         res[0][0] = 0;
         heap.offer(new int[]{0,0,0});
-
         while(!heap.isEmpty()){
             int[] current = heap.poll();
             int distance = current[0];
             int row = current[1];
             int col = current[2];
-
             if(distance > res[row][col]){
                 continue;
             }
