@@ -1,7 +1,6 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int src) {
         ArrayList<int[]>[] graph = new ArrayList[n];
-        
         for(int i=0; i<n; i++){
             graph[i] = new ArrayList<>();
         }
@@ -9,11 +8,8 @@ class Solution {
             int u = time[0];
             int v = time[1];
             int weig = time[2];
-            
-            graph[u-1].add(new int[] {v-1,weig});
-            
+            graph[u-1].add(new int[] {v-1,weig});   
         }
-        
         PriorityQueue<int[]> heap = new PriorityQueue<>((a,b) -> Integer.compare(a[0],b[0]));
         int[] distance = new int[n];
         Arrays.fill(distance,Integer.MAX_VALUE);
